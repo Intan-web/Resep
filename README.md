@@ -34,4 +34,4 @@ ___
 ### Application Name and Package
 
 -   **App Name**: Aplikasi Makanan dan Minuman-app
--   **Package Name**:  `com.ResepMakanandanMinuman .malikverseapp`
+-   **Package Name**:  `com.ResepMakanandanMinuman.app`
